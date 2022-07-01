@@ -1,0 +1,50 @@
+body{
+    background-image: url("../image/blacky.jpg");
+    text-align: center;
+    background-size: cover;
+    color: whitesmoke;
+
+}
+
+#heading3{
+    font-size: 30px;
+}
+
+#heading1{  
+    border: 2px solid rgb(114, 110, 110);  
+    margin: 20px 150px;
+    border-radius: 15px;
+    background-color: rgb(158, 145, 145);
+    padding: 10px 10px;
+    color: black;
+    text-align: center;
+
+} 
+
+.btn{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 30px;
+    font-size: 30px;
+    border: 4px solid rgb(211, 200, 211);
+    border-radius: 6px;
+    margin-bottom: 30px;
+
+}
+.btn:hover{
+    background-color: rgb(88, 84, 84);
+
+}
+.mainUp{
+    font-size: 20px;
+    font-weight: bold;
+}
+.form{
+    border: 4px solid lightblue;
+    margin: 100px;
+    margin-top: 30px;
+    border-radius: 50px;
+    background-image: url("image/pinky.jpg");
+
+}
